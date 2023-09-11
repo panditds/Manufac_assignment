@@ -25,6 +25,7 @@ The second table shows class-wise statistics for the "Gamma" property, including
 
 
 
+![screenshot](https://github.com/panditds/Manufac_assignment/assets/89585012/3007fef6-f992-4b4a-b63d-76357b7dd45c)
 
 
 
